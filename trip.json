@@ -1,0 +1,575 @@
+{
+  "trip": {
+    "tripDate": "2023-08-13",
+    "trainType": "ICE",
+    "vzn": "71",
+    "actualPosition": 650469,
+    "distanceFromLastStop": 40319,
+    "totalDistance": 757846,
+    "stopInfo": {
+      "scheduledNext": "8000107",
+      "actualNext": "8000107",
+      "actualLast": "8000290",
+      "actualLastStarted": "8000107",
+      "finalStationName": "Basel SBB",
+      "finalStationEvaNr": "8500010"
+    },
+    "stops": [
+      {
+        "station": {
+          "evaNr": "8098160",
+          "name": "Berlin Hbf (tief)",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 52.525592,
+            "longitude": 13.369545
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": null,
+          "actualArrivalTime": null,
+          "showActualArrivalTime": null,
+          "arrivalDelay": "",
+          "scheduledDepartureTime": 1691897160000,
+          "actualDepartureTime": 1691897187000,
+          "showActualDepartureTime": true,
+          "departureDelay": ""
+        },
+        "track": {
+          "scheduled": "2",
+          "actual": "2"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 0,
+          "distanceFromStart": 0
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8011113",
+          "name": "Berlin Südkreuz",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 52.475047,
+            "longitude": 13.365319
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691897460000,
+          "actualArrivalTime": 1691897573000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "+1",
+          "scheduledDepartureTime": 1691897580000,
+          "actualDepartureTime": 1691897729000,
+          "showActualDepartureTime": true,
+          "departureDelay": "+2"
+        },
+        "track": {
+          "scheduled": "3",
+          "actual": "3"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 5629,
+          "distanceFromStart": 5629
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8010222",
+          "name": "Lutherstadt Wittenberg Hbf",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 51.867811,
+            "longitude": 12.662285
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691899740000,
+          "actualArrivalTime": 1691899863000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "+2",
+          "scheduledDepartureTime": 1691899800000,
+          "actualDepartureTime": 1691899953000,
+          "showActualDepartureTime": true,
+          "departureDelay": "+2"
+        },
+        "track": {
+          "scheduled": "2",
+          "actual": "2"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 82834,
+          "distanceFromStart": 88463
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8010205",
+          "name": "Leipzig Hbf",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 51.3454712,
+            "longitude": 12.3820639
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691901720000,
+          "actualArrivalTime": 1691901720000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "",
+          "scheduledDepartureTime": 1691902080000,
+          "actualDepartureTime": 1691902100000,
+          "showActualDepartureTime": true,
+          "departureDelay": ""
+        },
+        "track": {
+          "scheduled": "12",
+          "actual": "11"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 61238,
+          "distanceFromStart": 149701
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8010101",
+          "name": "Erfurt Hbf",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 50.972551,
+            "longitude": 11.038499
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691904480000,
+          "actualArrivalTime": 1691904480000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "",
+          "scheduledDepartureTime": 1691904600000,
+          "actualDepartureTime": 1691904654000,
+          "showActualDepartureTime": true,
+          "departureDelay": ""
+        },
+        "track": {
+          "scheduled": "2",
+          "actual": "2"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 102489,
+          "distanceFromStart": 252190
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8010097",
+          "name": "Eisenach",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 50.976922,
+            "longitude": 10.331986
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691906040000,
+          "actualArrivalTime": 1691906075000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "",
+          "scheduledDepartureTime": 1691906100000,
+          "actualDepartureTime": 1691906160000,
+          "showActualDepartureTime": true,
+          "departureDelay": "+1"
+        },
+        "track": {
+          "scheduled": "5",
+          "actual": "5"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 49483,
+          "distanceFromStart": 301673
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8000115",
+          "name": "Fulda",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 50.554723,
+            "longitude": 9.683977
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691909280000,
+          "actualArrivalTime": 1691909280000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "",
+          "scheduledDepartureTime": 1691909400000,
+          "actualDepartureTime": 1691909435000,
+          "showActualDepartureTime": true,
+          "departureDelay": ""
+        },
+        "track": {
+          "scheduled": "3",
+          "actual": "3"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 65447,
+          "distanceFromStart": 367120
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8000150",
+          "name": "Hanau Hbf",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 50.120953,
+            "longitude": 8.929
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691911920000,
+          "actualArrivalTime": 1691911920000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "",
+          "scheduledDepartureTime": 1691912040000,
+          "actualDepartureTime": 1691912067000,
+          "showActualDepartureTime": true,
+          "departureDelay": ""
+        },
+        "track": {
+          "scheduled": "6",
+          "actual": "6"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 72113,
+          "distanceFromStart": 439233
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8002041",
+          "name": "Frankfurt(Main)Süd",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 50.099365,
+            "longitude": 8.686457
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691912640000,
+          "actualArrivalTime": 1691912667000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "",
+          "scheduledDepartureTime": 1691912700000,
+          "actualDepartureTime": 1691912868000,
+          "showActualDepartureTime": true,
+          "departureDelay": "+2"
+        },
+        "track": {
+          "scheduled": "",
+          "actual": "5"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 17467,
+          "distanceFromStart": 456700
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8000156",
+          "name": "Heidelberg Hbf",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 49.403567,
+            "longitude": 8.675442
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691916480000,
+          "actualArrivalTime": 1691916480000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "",
+          "scheduledDepartureTime": 1691916540000,
+          "actualDepartureTime": 1691916591000,
+          "showActualDepartureTime": true,
+          "departureDelay": ""
+        },
+        "track": {
+          "scheduled": "7",
+          "actual": "7"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 77395,
+          "distanceFromStart": 534095
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8000191",
+          "name": "Karlsruhe Hbf",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 48.993515,
+            "longitude": 8.402181
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691917740000,
+          "actualArrivalTime": 1691918351000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "+10",
+          "scheduledDepartureTime": 1691917860000,
+          "actualDepartureTime": 1691918525000,
+          "showActualDepartureTime": true,
+          "departureDelay": "+11"
+        },
+        "track": {
+          "scheduled": "2",
+          "actual": "2"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 49745,
+          "distanceFromStart": 583840
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8000774",
+          "name": "Baden-Baden",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 48.790327,
+            "longitude": 8.190831
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691918760000,
+          "actualArrivalTime": 1691919648000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "+14",
+          "scheduledDepartureTime": 1691918820000,
+          "actualDepartureTime": 1691919747000,
+          "showActualDepartureTime": true,
+          "departureDelay": "+15"
+        },
+        "track": {
+          "scheduled": "7",
+          "actual": "7"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "passed",
+          "distance": 27379,
+          "distanceFromStart": 611219
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8000290",
+          "name": "Offenburg",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 48.476475,
+            "longitude": 7.946723
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691919900000,
+          "actualArrivalTime": 1691920677000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "+12",
+          "scheduledDepartureTime": 1691920020000,
+          "actualDepartureTime": 1691920798000,
+          "showActualDepartureTime": true,
+          "departureDelay": "+12"
+        },
+        "track": {
+          "scheduled": "1",
+          "actual": "1"
+        },
+        "info": {
+          "status": 0,
+          "passed": true,
+          "positionStatus": "departed",
+          "distance": 39250,
+          "distanceFromStart": 650469
+        },
+        "delayReasons": null
+      },
+      {
+        "station": {
+          "evaNr": "8000107",
+          "name": "Freiburg(Breisgau) Hbf",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 47.997697,
+            "longitude": 7.84117
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691921700000,
+          "actualArrivalTime": 1691923500000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "+30",
+          "scheduledDepartureTime": 1691921820000,
+          "actualDepartureTime": 1691923620000,
+          "showActualDepartureTime": true,
+          "departureDelay": "+30"
+        },
+        "track": {
+          "scheduled": "3",
+          "actual": "3"
+        },
+        "info": {
+          "status": 0,
+          "passed": false,
+          "positionStatus": "future",
+          "distance": 53824,
+          "distanceFromStart": 704293
+        },
+        "delayReasons": [
+          {
+            "code": "35",
+            "text": "Streckensperrung"
+          }
+        ]
+      },
+      {
+        "station": {
+          "evaNr": "8000026",
+          "name": "Basel Bad Bf",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 47.567288,
+            "longitude": 7.607805
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691923800000,
+          "actualArrivalTime": 1691925360000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "+26",
+          "scheduledDepartureTime": 1691924580000,
+          "actualDepartureTime": 1691925540000,
+          "showActualDepartureTime": true,
+          "departureDelay": "+16"
+        },
+        "track": {
+          "scheduled": "3",
+          "actual": "3"
+        },
+        "info": {
+          "status": 0,
+          "passed": false,
+          "positionStatus": "future",
+          "distance": 50951,
+          "distanceFromStart": 755244
+        },
+        "delayReasons": [
+          {
+            "code": "35",
+            "text": "Streckensperrung"
+          }
+        ]
+      },
+      {
+        "station": {
+          "evaNr": "8500010",
+          "name": "Basel SBB",
+          "code": null,
+          "geocoordinates": {
+            "latitude": 47.547405,
+            "longitude": 7.589551
+          }
+        },
+        "timetable": {
+          "scheduledArrivalTime": 1691925000000,
+          "actualArrivalTime": 1691925960000,
+          "showActualArrivalTime": true,
+          "arrivalDelay": "+16",
+          "scheduledDepartureTime": null,
+          "actualDepartureTime": null,
+          "showActualDepartureTime": null,
+          "departureDelay": ""
+        },
+        "track": {
+          "scheduled": "9",
+          "actual": "9"
+        },
+        "info": {
+          "status": 0,
+          "passed": false,
+          "positionStatus": "future",
+          "distance": 2602,
+          "distanceFromStart": 757846
+        },
+        "delayReasons": [
+          {
+            "code": "35",
+            "text": "Streckensperrung"
+          }
+        ]
+      }
+    ]
+  },
+  "connection": {
+    "trainType": null,
+    "vzn": null,
+    "trainNumber": null,
+    "station": null,
+    "timetable": null,
+    "track": null,
+    "info": null,
+    "stops": null,
+    "conflict": "NO_CONFLICT"
+  },
+  "active": null
+}
